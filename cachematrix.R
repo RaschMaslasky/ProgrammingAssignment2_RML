@@ -1,4 +1,4 @@
-## In some cases matrix inversion is a slovly computation.
+## In some cases matrix inversion is a slowly computation.
 ## There may be to caching the inverse of a matrix rather than compute it. 
 
 ## The following function create a list, which is containig 
